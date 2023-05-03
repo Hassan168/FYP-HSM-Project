@@ -40,17 +40,8 @@ const Footer = ({ data }) => {
                     <div className="container">
                         <div className=" flex flex-col md:flex-row md:justify-between items-center py-6">
                             <div className="">
-                                &copy; {new Date().getFullYear()} BONX MADE WITH{" "}
-                                <i className="icofont-heart"></i> BY
-                                <a
-                                    className="hover:text-primary"
-                                    href="https://hasthemes.com/"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    {" "}
-                                    HasThemes
-                                </a>
+                                &copy; {new Date().getFullYear()} HSM
+                                Tournaments Organizer
                             </div>
                             <div className="footer-copyright-right">
                                 <div className="flex">
