@@ -1,0 +1,111 @@
+{
+    "id": "team-05",
+    "name": "Holigans",
+    "logo": {
+        "src": "../../data/images/team-logo/upcoming-game-thumb5.webp",
+        "alt": "Holigans"
+    },
+    "description": "Lorem ipsum dolor sit amet consectetur dolor sit amet consectetur adipisicing elit. Sapiente, consequatur quae pariatur aut deserunt nemo provident, possimus iste dolor dicta sint porro ut. Eveniet libero voluptatum architecto adipisicing elit. Sapiente, consequatur quae pariatur aut deserunt nemo provident, possimus iste dolor dicta sint porro ut. Eveniet libero voluptatum architecto ratione corrupti cupiditate!",
+    "playsGame": "06",
+    "wins": "00",
+    "loses": "06",
+    "draws": "00",
+    "teamPlayer": [
+        {
+            "id": "player-01",
+            "name": "Raju Jone",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players1.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-02",
+            "name": "Moler",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players2.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-03",
+            "name": "Butler",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players3.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-04",
+            "name": "Morch Bork",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players4.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-05",
+            "name": "Mark Jone",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players5.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-06",
+            "name": "Mark Jone",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players6.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-07",
+            "name": "Mark Jone",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players3.webp",
+                    "alt": "Panda"
+                }
+            ]
+        }
+    ],
+    "socials": [
+        {
+            "id": 1,
+            "icon": "icofont-facebook",
+            "link": "https://www.facebook.com",
+            "title": "facebook"
+        },
+        {
+            "id": 2,
+            "icon": "icofont-dribbble",
+            "link": "https://dribbble.com",
+            "title": "dribbble"
+        },
+        {
+            "id": 3,
+            "icon": "icofont-youtube-play",
+            "link": "https://www.youtube.com",
+            "title": "youtube"
+        },
+        {
+            "id": 4,
+            "icon": "icofont-twitter",
+            "link": "https://www.twitter.com",
+            "title": "twitter"
+        }
+    ]
+}

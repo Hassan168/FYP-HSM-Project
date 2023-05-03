@@ -1,0 +1,15 @@
+{
+    "title": "ragisterPage",
+    "pageType": "innerpage",
+    "content": [
+        {
+            "id": "register-section",
+            "section": "register-section",
+            "section_title": {
+                "showDescription": true,
+                "align": "center",
+                "heading": "Register"
+            }
+        }
+    ]
+}
