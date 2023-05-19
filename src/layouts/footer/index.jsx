@@ -43,23 +43,6 @@ const Footer = ({ data }) => {
                                 &copy; {new Date().getFullYear()} HSM
                                 Tournaments Organizer
                             </div>
-                            <div className="footer-copyright-right">
-                                <div className="flex">
-                                    <a
-                                        href="https://hasthemes.com/"
-                                        className="text-white hover:text-primary"
-                                    >
-                                        Terms &amp; Condition{" "}
-                                    </a>
-                                    <span className="mx-3"> || </span>
-                                    <a
-                                        href="https://hasthemes.com/"
-                                        className="text-white hover:text-primary"
-                                    >
-                                        Privacy Policy{" "}
-                                    </a>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>

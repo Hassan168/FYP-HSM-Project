@@ -1,30 +1,30 @@
 {
     "id": "game-02",
-    "title": "DIN SAURS - HUNTER SNIPER SHOOTER",
+    "title": "FIFA Game",
     "gameThum": {
-        "src": "../../data/images/game/popular-game-thumb2.webp",
+        "src": "../../data/images/game/fifa.webp",
         "alt": "Anonymous"
     },
-    "categories": ["Drawing", "Collage"],
-    "date": "2021-01-02 13:01:00",
-    "updated": "2021-01-02",
-    "size": "98MB",
-    "installs": "80,000,000+",
-    "currentVersion": "03.00.28.00.00",
-    "inAppProducts": "$0.85 - $985.00",
+    "categories": ["FIFA", "Sport Game"],
+    "date": "",
+    "updated": "",
+    "size": "",
+    "installs": "",
+    "currentVersion": "",
+    "inAppProducts": "",
     "is_featured": true,
-    "quoteText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500 printer took galley of type scrambled it to make a type specimen book.",
+    "quoteText": "",
     "images": [
         {
-            "src": "../../data/images/game/game-details-thumb.webp",
+            "src": "../../data/images/game/Fifa2.jpg",
             "alt": "Games Details"
         },
         {
-            "src": "../../data/images/game/game-details-thumb.webp",
+            "src": "../../data/images/game/fifa1.jpg",
             "alt": "Games Details"
         },
         {
-            "src": "../../data/images/game/game-details-thumb.webp",
+            "src": "../../data/images/game/fifa3.jpg",
             "alt": "Games Details"
         }
     ],
@@ -37,31 +37,17 @@
     ],
     "content": [
         {
-            "id": "game-details-per-one",
-            "section": "game-details-per-one",
-            "items": [
-                {
-                    "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                },
-                {
-                    "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                }
-            ]
-        },
-        {
             "id": "game-details-per-two",
             "section": "game-details-per-two",
             "headings": [{ "content": "DESCRIPTION:" }],
             "items": [
                 {
                     "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "FIFA, short for FIFA Soccer or FIFA Football, is a popular video game series developed by EA Sports. It is an annual release that simulates the sport of soccer (or football) and has a massive global following."
                 },
                 {
                     "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "In FIFA, players can experience the excitement and thrills of the world's most popular sport. The game features a wide range of game modes, including exhibition matches, career mode, ultimate team mode, and online multiplayer matches. Players can compete against the AI or challenge friends and other players worldwide."
                 }
             ]
         },
@@ -72,36 +58,11 @@
             "items": [
                 {
                     "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "FIFA's ultimate team mode allows players to build and manage their dream team by collecting player cards. These cards represent real-life soccer players, and players can acquire them through various means, such as opening packs, participating in auctions, or completing challenges. The ultimate team mode emphasizes squad building, chemistry, and competing in online tournaments."
                 },
                 {
                     "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                }
-            ]
-        },
-        {
-            "id": "game-details-per-whats-new",
-            "section": "game-details-per-whats-new",
-            "headings": [{ "content": "WHAT’S NEW!" }],
-            "items": [
-                {
-                    "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                }
-            ]
-        },
-        {
-            "id": "game-details-per-04",
-            "section": "game-details-per-04",
-            "items": [
-                {
-                    "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                },
-                {
-                    "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro recently with desktop publishing software like including versions."
+                    "desc": "FIFA games aim to provide a realistic soccer experience, with attention to detail in player animations, stadiums, and commentary. The gameplay mechanics focus on ball control, passing, shooting, and strategic decision-making. The game incorporates licensed teams, leagues, and players from around the world, offering an authentic soccer experience for fans."
                 }
             ]
         }

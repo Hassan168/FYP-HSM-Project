@@ -1,30 +1,30 @@
 {
     "id": "game-04",
-    "title": "Space Exploration - HUNTER SHOOTER",
+    "title": "EA 2007 Cricket Game",
     "gameThum": {
-        "src": "../../data/images/game/popular-game-thumb4.webp",
+        "src": "../../data/images/game/cricket-game.webp",
         "alt": "Anonymous"
     },
-    "categories": ["Drawing", "Game one"],
-    "date": "2021-01-02 13:01:00",
-    "updated": "2021-01-02",
-    "size": "98MB",
-    "installs": "80,000,000+",
-    "currentVersion": "03.00.28.00.00",
-    "inAppProducts": "$0.85 - $985.00",
+    "categories": ["Crciket", "Sport Game"],
+    "date": "",
+    "updated": "",
+    "Price": "",
+    "installs": "",
+    "currentVersion": "",
+    "inAppProducts": "",
     "is_featured": true,
-    "quoteText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500 printer took galley of type scrambled it to make a type specimen book.",
+    "quoteText": "",
     "images": [
         {
-            "src": "../../data/images/game/game-details-thumb.webp",
+            "src": "../../data/images/game/cricket-game1.jpg",
             "alt": "Games Details"
         },
         {
-            "src": "../../data/images/game/game-details-thumb.webp",
+            "src": "../../data/images/game/cricket-game2.jpg",
             "alt": "Games Details"
         },
         {
-            "src": "../../data/images/game/game-details-thumb.webp",
+            "src": "../../data/images/game/cricket-game3.webp",
             "alt": "Games Details"
         }
     ],
@@ -41,12 +41,10 @@
             "section": "game-details-per-one",
             "items": [
                 {
-                    "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "id": "game-details-1"
                 },
                 {
-                    "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "id": "game-details-2"
                 }
             ]
         },
@@ -57,11 +55,7 @@
             "items": [
                 {
                     "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                },
-                {
-                    "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "Cricket is played on a large oval-shaped field with a rectangular pitch in the center. The pitch is 22 yards long and has three wooden stumps at each end, topped by bails. One team bats while the other team fields and bowls. The bowler delivers the ball towards the batsman, who tries to hit it with a wooden bat and score runs by running between the wickets or hitting boundaries."
                 }
             ]
         },
@@ -72,36 +66,7 @@
             "items": [
                 {
                     "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                },
-                {
-                    "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                }
-            ]
-        },
-        {
-            "id": "game-details-per-whats-new",
-            "section": "game-details-per-whats-new",
-            "headings": [{ "content": "WHAT’S NEW!" }],
-            "items": [
-                {
-                    "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                }
-            ]
-        },
-        {
-            "id": "game-details-per-04",
-            "section": "game-details-per-04",
-            "items": [
-                {
-                    "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                },
-                {
-                    "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro recently with desktop publishing software like including versions."
+                    "desc": "Cricket EA 2007, also known as EA Sports Cricket 07, is a popular cricket video game released by Electronic Arts. There are features like Test Mode, T20 Mode, ODI MOde and Multiplayer games also available."
                 }
             ]
         }

@@ -1,6 +1,6 @@
 {
     "id": "match-01",
-    "title": "NINJA 360 GAME 2021",
+    "title": "FIFA 23 Match 1",
     "date": "2021-01-02 13:01:00",
     "teams": ["Anonymous", "Ninja"],
     "registeredTeams": "08",
@@ -8,7 +8,7 @@
     "teamNubmber": "04",
     "winningPrize": "9,100",
     "is_featured": true,
-    "quoteText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500 printer took galley of type scrambled it to make a type specimen book.",
+    "quoteText": "",
     "liveStreaming": {
         "id": "watch-live-1",
         "headings": [
@@ -19,7 +19,7 @@
         ],
         "images": [
             {
-                "src": "../../data/images/live-video/gaming-bg1.webp",
+                "src": "../../data/images/live-video/Fifa2.jpg",
                 "alt": "LIVE STREAMING"
             }
         ],
@@ -38,25 +38,11 @@
             "items": [
                 {
                     "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "FIFA games feature realistic graphics, licensed teams, players, and stadiums from leagues around the world, providing an immersive football experience. The gameplay mechanics aim to replicate the excitement and strategic elements of real-world football matches."
                 },
                 {
                     "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                }
-            ]
-        },
-        {
-            "id": "game-details-per-two",
-            "section": "game-details-per-two",
-            "items": [
-                {
-                    "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                },
-                {
-                    "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "Each year's edition of FIFA introduces improvements to gameplay mechanics, graphics, and game modes, based on player feedback and advancements in technology. FIFA games are available on various platforms, including PlayStation, Xbox, Nintendo Switch, and PC."
                 }
             ]
         }

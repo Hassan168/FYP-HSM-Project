@@ -1,6 +1,6 @@
 {
     "id": "match-02",
-    "title": "ROAR SPRING GAME 2021",
+    "title": "CALL OF DUTY MATCH 1",
     "date": "2021-01-01 06:01:00",
     "teams": ["Panda", "Anonymous"],
     "registeredTeams": "04",
@@ -8,7 +8,7 @@
     "teamNubmber": "02",
     "winningPrize": "5,100",
     "is_featured": true,
-    "quoteText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500 printer took galley of type scrambled it to make a type specimen book.",
+    "quoteText": "",
     "liveStreaming": {
         "id": "watch-live-1",
         "headings": [
@@ -19,7 +19,7 @@
         ],
         "images": [
             {
-                "src": "../../data/images/live-video/gaming-bg1.webp",
+                "src": "../../data/images/live-video/call3.jpg",
                 "alt": "LIVE STREAMING"
             }
         ],
@@ -38,11 +38,11 @@
             "items": [
                 {
                     "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "Call of Duty (COD) is a highly popular first-person shooter (FPS) video game series developed by various studios, including Infinity Ward, Treyarch, and Sledgehammer Games. The franchise has been around since 2003 and has become one of the most successful and recognizable video game series worldwide."
                 },
                 {
                     "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "The single-player campaigns in Call of Duty games offer cinematic experiences, placing players in the roles of soldiers fighting in different military conflicts. The campaigns often feature diverse missions, showcasing different perspectives and engaging players in intense firefights, stealth operations, and epic set-piece moments."
                 }
             ]
         },
@@ -52,11 +52,11 @@
             "items": [
                 {
                     "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "The multiplayer modes are a significant component of Call of Duty games, allowing players to compete against each other in various online game modes. These modes include traditional team-based matches, such as Team Deathmatch, Domination, and Search and Destroy, as well as more innovative game types introduced in recent releases. The multiplayer experience typically involves leveling up, unlocking weapons and equipment, and customizing loadouts to suit individual playstyles."
                 },
                 {
                     "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "In recent years, Call of Duty has also embraced the battle royale genre with the introduction of Call of Duty: Warzone. Warzone is a free-to-play standalone battle royale game that incorporates elements from previous Call of Duty titles, featuring large-scale matches where players fight to be the last person or team standing. Warzone has gained immense popularity and has become a major component of the Call of Duty franchise."
                 }
             ]
         }

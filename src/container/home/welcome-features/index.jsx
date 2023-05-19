@@ -24,7 +24,7 @@ const WelcomeFeaturesArea = ({ data }) => {
                                     level={item.headings[0].level}
                                     iconImage={item.images[0].src}
                                     bgShapImage={item.images[1].src}
-                                    description={item.description}
+                                    // description={item.description}
                                 />
                             </div>
                         ))}

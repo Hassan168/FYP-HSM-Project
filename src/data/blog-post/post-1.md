@@ -1,5 +1,5 @@
 ---
-title: "IF YOU HAVE SEEN APPLE RECENT JABS."
+title: "HSM Providing platform for Gaming"
 image: { src: "../../data/images/blog/1.jpg", alt: "SEEN APPLE" }
 date: "2020-01-20"
 quote_text: "The use of apps in investment ideas is a great way to enjoy the convenience."

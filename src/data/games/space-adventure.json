@@ -1,30 +1,30 @@
 {
     "id": "game-03",
-    "title": "Space Adventure - SNIPER SHOOTER",
+    "title": "CALL OF DUTY",
     "gameThum": {
-        "src": "../../data/images/game/popular-game-thumb3.webp",
+        "src": "../../data/images/game/call1.webp",
         "alt": "Anonymous"
     },
-    "categories": ["Drawing", "Collage"],
-    "date": "2021-01-02 13:01:00",
-    "updated": "2021-01-02",
-    "size": "98MB",
-    "installs": "80,000,000+",
-    "currentVersion": "03.00.28.00.00",
-    "inAppProducts": "$0.85 - $985.00",
+    "categories": ["Call Of Duty", "Shooting Game"],
+    "date": "",
+    "updated": "",
+    "size": "",
+    "installs": "",
+    "currentVersion": "",
+    "inAppProducts": "",
     "is_featured": true,
-    "quoteText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500 printer took galley of type scrambled it to make a type specimen book.",
+    "quoteText": "",
     "images": [
         {
-            "src": "../../data/images/game/game-details-thumb.webp",
+            "src": "../../data/images/game/call1.webp",
             "alt": "Games Details"
         },
         {
-            "src": "../../data/images/game/game-details-thumb.webp",
+            "src": "../../data/images/game/call2.jpg",
             "alt": "Games Details"
         },
         {
-            "src": "../../data/images/game/game-details-thumb.webp",
+            "src": "../../data/images/game/call3.jpg",
             "alt": "Games Details"
         }
     ],
@@ -37,31 +37,17 @@
     ],
     "content": [
         {
-            "id": "game-details-per-one",
-            "section": "game-details-per-one",
-            "items": [
-                {
-                    "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                },
-                {
-                    "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                }
-            ]
-        },
-        {
             "id": "game-details-per-two",
             "section": "game-details-per-two",
             "headings": [{ "content": "DESCRIPTION:" }],
             "items": [
                 {
                     "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "Call of Duty (COD) is a highly popular first-person shooter (FPS) video game series developed by various studios, including Infinity Ward, Treyarch, and Sledgehammer Games. The franchise has been around since 2003 and has become one of the most successful and recognizable video game series worldwide."
                 },
                 {
                     "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "Call of Duty games typically feature intense and fast-paced combat scenarios, often set in various historical periods or fictional war settings. The series is known for its engaging single-player campaigns, immersive multiplayer modes, and, more recently, its focus on battle royale gameplay."
                 }
             ]
         },
@@ -72,36 +58,11 @@
             "items": [
                 {
                     "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "The single-player campaigns in Call of Duty games offer cinematic experiences, placing players in the roles of soldiers fighting in different military conflicts. The campaigns often feature diverse missions, showcasing different perspectives and engaging players in intense firefights, stealth operations, and epic set-piece moments."
                 },
                 {
                     "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                }
-            ]
-        },
-        {
-            "id": "game-details-per-whats-new",
-            "section": "game-details-per-whats-new",
-            "headings": [{ "content": "WHAT’S NEW!" }],
-            "items": [
-                {
-                    "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                }
-            ]
-        },
-        {
-            "id": "game-details-per-04",
-            "section": "game-details-per-04",
-            "items": [
-                {
-                    "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                },
-                {
-                    "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro recently with desktop publishing software like including versions."
+                    "desc": "The multiplayer modes are a significant component of Call of Duty games, allowing players to compete against each other in various online game modes. These modes include traditional team-based matches, such as Team Deathmatch, Domination, and Search and Destroy, as well as more innovative game types introduced in recent releases. The multiplayer experience typically involves leveling up, unlocking weapons and equipment, and customizing loadouts to suit individual playstyles."
                 }
             ]
         }

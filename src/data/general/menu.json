@@ -17,6 +17,11 @@
             "text": "Tournaments",
             "link": "/games"
         },
+        {
+            "id": "menu-3",
+            "text": "About",
+            "link": "/about-us"
+        },
 
         {
             "id": "menu-5",

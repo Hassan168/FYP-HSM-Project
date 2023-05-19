@@ -2,10 +2,10 @@
     "id": "game-05",
     "title": "PUBG Game",
     "gameThum": {
-        "src": "../../data/images/game/popular-game-thumb5.webp",
+        "src": "../../data/images/game/pubg4.jpg",
         "alt": "Anonymous"
     },
-    "categories": ["Drawing", "Alien Space"],
+    "categories": ["PUBG", "Shooting Game"],
     "date": "2021-01-02 13:01:00",
     "Start Date": "2021-01-02",
     "Game Type": "98MB",

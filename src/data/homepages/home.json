@@ -40,32 +40,31 @@
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "LIVE STREAMING"
+                            "content": ""
                         }
                     ],
                     "images": [
                         {
-                            "src": "../../data/images/features/gaming-world1.webp",
-                            "alt": "LIVE STREAMING"
+                            "src": "../../data/images/features/fifa.png",
+                            "alt": "GAME NEWS"
                         },
                         {
-                            "src": "../../data/images/features/gaming-world-bg1.webp",
+                            "src": "../../data/images/features/gaming-world-bg2.webp",
                             "alt": "LIVE STREAMING"
                         }
-                    ],
-                    "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                    ]
                 },
                 {
                     "id": "features-2",
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "GAME NEWS"
+                            "content": ""
                         }
                     ],
                     "images": [
                         {
-                            "src": "../../data/images/features/gaming-world2.webp",
+                            "src": "../../data/images/features/CSGO.png",
                             "alt": "GAME NEWS"
                         },
                         {
@@ -80,12 +79,12 @@
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "GAME TOURNAMENTS"
+                            "content": ""
                         }
                     ],
                     "images": [
                         {
-                            "src": "../../data/images/features/gaming-world3.webp",
+                            "src": "../../data/images/features/COD.png",
                             "alt": "GAME TOURNAMENTS"
                         },
                         {
@@ -104,7 +103,7 @@
                 "showDescription": true,
                 "align": "center",
                 "heading": "UPCOMING MATCH",
-                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                "description": "Are you ready to rule the games?"
             },
             "buttons": [
                 {
@@ -120,7 +119,7 @@
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "Roar Spring Game 2021"
+                            "content": "FIFA Game"
                         }
                     ],
                     "link": "https://www.youtube.com/watch?v=eS9Qm4AOOBY",
@@ -144,7 +143,7 @@
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "Roar Spring Game 2022"
+                            "content": "COD Tournament"
                         }
                     ],
                     "link": "eS9Qm4AOOBY",
@@ -171,17 +170,17 @@
             "items": [
                 {
                     "id": "funfact-01",
-                    "countNumber": 8697,
+                    "countNumber": 10,
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "TWITCH STREAMS"
+                            "content": "TEAM REGISTERED"
                         }
                     ]
                 },
                 {
                     "id": "funfact-02",
-                    "countNumber": 520,
+                    "countNumber": 6,
                     "headings": [
                         {
                             "level": "h3",
@@ -191,21 +190,21 @@
                 },
                 {
                     "id": "funfact-03",
-                    "countNumber": 5367,
+                    "countNumber": 3,
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "YOUTUBE STREAMS"
+                            "content": "LIVE STREAMING"
                         }
                     ]
                 },
                 {
                     "id": "funfact-04",
-                    "countNumber": 249,
+                    "countNumber": 20,
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "PRO TEAM"
+                            "content": "TOTAL PLAYERS"
                         }
                     ]
                 }
@@ -217,54 +216,8 @@
             "section_title": {
                 "showDescription": true,
                 "align": "center",
-                "heading": "POPULAR GAME",
-                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
-            }
-        },
-        {
-            "id": "home-testimonial-section",
-            "section": "testimonial-section",
-            "section_title": {
-                "showDescription": false,
-                "align": "left",
-                "heading": "WHAT PEOPLE’S SAY ABOUT GAME STUDIO",
-                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
-            },
-            "items": [
-                {
-                    "id": "testimonial-01",
-                    "images": [
-                        {
-                            "src": "../../data/images/testimonial/testimonial-thumb.webp",
-                            "alt": "Panda"
-                        }
-                    ],
-                    "name": "Randolph Frazier",
-                    "designation": "Top Rated Gamer",
-                    "description": "Lorem long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution lette as opposed to using  making it look like readable english, many desktop publishing packages and web page now editors."
-                },
-                {
-                    "id": "testimonial-02",
-                    "images": [
-                        {
-                            "src": "../../data/images/testimonial/testimonial-thumb.webp",
-                            "alt": "Panda"
-                        }
-                    ],
-                    "name": "Johan Puker",
-                    "designation": "Top Rated Gamer",
-                    "description": "It is a long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution lette as opposed to using  making it look like readable english, many desktop publishing packages and web page now editors."
-                }
-            ]
-        },
-        {
-            "id": "home-latest-section",
-            "section": "latest-section",
-            "section_title": {
-                "showDescription": true,
-                "align": "center",
-                "heading": "LATEST BLOG",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+                "heading": "MOST POPULAR GAME",
+                "description": "Are you ready to conquer the world?"
             }
         }
     ]

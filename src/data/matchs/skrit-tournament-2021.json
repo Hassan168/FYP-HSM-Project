@@ -1,6 +1,6 @@
 {
     "id": "match-03",
-    "title": "SKRIT TOURNAMENT 2021",
+    "title": "COUNTER STRIKE MATCH 1",
     "date": "2021-01-03 05:01:00",
     "teams": ["Panda", "Ninja"],
     "registeredTeams": "06",
@@ -8,19 +8,19 @@
     "teamNubmber": "03",
     "winningPrize": "4,100",
     "is_featured": true,
-    "quoteText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500 printer took galley of type scrambled it to make a type specimen book.",
+    "quoteText": "",
     "liveStreaming": {
         "id": "watch-live-1",
         "headings": [
             {
                 "level": "h3",
-                "content": "SKRIT Watch Live"
+                "content": "COSG LIVE STREAM"
             }
         ],
         "images": [
             {
-                "src": "../../data/images/live-video/gaming-bg1.webp",
-                "alt": "SKRIT LIVE STREAMING"
+                "src": "../../data/images/live-video/csgo1.jpg",
+                "alt": " LIVE STREAMING"
             }
         ],
         "link": "https://www.youtube.com/watch?v=u8RjmidYOL0"
@@ -38,11 +38,11 @@
             "items": [
                 {
                     "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "In CSGO, players are divided into two teams: terrorists and counter-terrorists. The game features various game modes, but the most prominent and widely played mode is the classic competitive mode. In this mode, the terrorists' objective is to plant and detonate a bomb at designated sites, while the counter-terrorists aim to prevent the bomb from being planted or defuse it if it is."
                 },
                 {
                     "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "The game is known for its tactical gameplay, requiring teamwork, strategy, and precise shooting skills. Players can choose from a wide array of weapons, ranging from pistols and rifles to sniper rifles and grenades. They can also purchase armor and equipment to enhance their chances of survival."
                 }
             ]
         },
@@ -52,11 +52,11 @@
             "items": [
                 {
                     "id": "game-details-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "n addition to the competitive mode, CSGO offers other game modes such as casual matches, deathmatch, and custom community servers. The game also has a strong esports presence, with professional tournaments and leagues attracting millions of viewers and featuring top teams from around the world."
                 },
                 {
                     "id": "game-details-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "Overall, CSGO is renowned for its intense gameplay, strategic depth, and skill-based combat, making it a popular choice among both casual and competitive gamers."
                 }
             ]
         }
